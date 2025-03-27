@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Risk Prediction</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <style>
+        /* Background Gradient */
+        body {
+            background: linear-gradient(to right, #ff9966, #ff5e62);
+            font-family: 'Arial', sans-serif;
+            color: white;
+        }
+
+        /* Centered Container */
+        .container {
+            max-width: 500px;
+            margin: auto;
+            padding-top: 50px;
+        }
+
+        /* Card Styling */
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+        }
+
+        /* Heading */
+        h2 {
+            color: #fff;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        /* Button Styling */
+        .btn-primary {
+            background-color: #ff4b2b;
+            border: none;
+            font-size: 18px;
+        }
+
+        .btn-primary:hover {
+            background-color: #c0392b;
+        }
+
+        /* Prediction Result */
+        #result {
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            color: #ff4b2b;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>🚑 Health Risk Prediction</h2>
+
+        <div class="card">
+            <form id="predict-form">
+                <div class="mb-3">
+                    <label for="age" class="form-label">🔢 Age</label>
+                    <input type="number" class="form-control" id="age" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="lifestyle" class="form-label">🏃 Lifestyle</label>
+                    <select class="form-control" id="lifestyle" required>
+                        <option value="Active">Active</option>
+                        <option value="Moderate">Moderate</option>
+                        <option value="Dormant">Dormant</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="condition" class="form-label">⚕️ Pre-existing Condition</label>
+                    <select class="form-control" id="condition" required>
+                        <option value="None">None</option>
+                        <option value="Diabetes">Diabetes</option>
+                        <option value="Blood Pressure">Blood Pressure</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100">🔍 Predict Risk</button>
+            </form>
+
+            <h3 id="result"></h3>
+        </div>
+    </div>
+
+    <!-- JavaScript to handle form submission -->
+    <script>
+        document.getElementById("predict-form").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent default form submission
+
+            let age = document.getElementById("age").value;
+            let lifestyle = document.getElementById("lifestyle").value;
+            let condition = document.getElementById("condition").value;
+
+            fetch("/predict", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    age: parseInt(age),
+                    lifestyle: lifestyle,
+                    pre_existing_conditions: condition
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("result").innerText = "Health Risk: " + data.health_risk;
+            })
+            .catch(error => {
+                console.error("Error:", error);
+                document.getElementById("result").innerText = "An error occurred!";
+            });
+        });
+    </script>
+
+
+</body>
+</html>

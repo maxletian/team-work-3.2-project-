@@ -1,0 +1,501 @@
+Name,Age,Lifestyle,Pre-existing Conditions,Health Risk
+Holly Mahoney,44,Dormant,Diabetes,Moderate
+Teresa Gillespie,18,Dormant,None,Low
+John Morris,83,Active,None,High
+Dakota Dyer,45,Dormant,None,Moderate
+Tina Bell,45,Moderate,None,Moderate
+Angela Flores,21,Moderate,Blood Pressure,Low
+Isaiah Warren,28,Active,None,Low
+Elizabeth Preston,61,Active,Diabetes,High
+Mary Gregory,20,Moderate,None,Low
+Caleb Collier,88,Active,None,High
+Meredith Underwood,87,Active,None,High
+John Fritz,57,Moderate,None,High
+Elizabeth Whitehead,69,Dormant,Diabetes & Blood Pressure,High
+Kayla Marks,52,Moderate,None,High
+Chad Moore,89,Active,None,High
+Samuel Berry,42,Active,None,Moderate
+William Lopez,27,Moderate,Blood Pressure,Low
+Carlos Maxwell,31,Active,Diabetes,Moderate
+Gregory Reilly,72,Moderate,Diabetes & Blood Pressure,High
+Jonathan Curry,56,Moderate,None,High
+Jennifer Barrett,36,Dormant,Diabetes & Blood Pressure,Moderate
+Larry Buckley,33,Active,Diabetes,Moderate
+Kevin Bailey,76,Active,None,High
+Victor Kim,44,Active,None,Moderate
+Barbara Wood,55,Active,Diabetes,High
+Tammy Petersen,71,Active,None,High
+Mrs. Donna Parker MD,71,Moderate,None,High
+David Jones,67,Dormant,None,High
+Aaron Cohen,27,Moderate,Diabetes & Blood Pressure,Low
+Andrew Andrade MD,62,Moderate,Diabetes,High
+Ryan Willis,63,Active,Blood Pressure,High
+Jennifer Wu,71,Active,Diabetes & Blood Pressure,High
+Linda Chase,83,Active,Diabetes,High
+Jessica Phillips,54,Moderate,Diabetes,High
+Donna Warren,27,Active,None,Low
+Tammy Hall,72,Dormant,None,High
+Jacqueline Rodriguez,58,Dormant,Blood Pressure,High
+Matthew Wright,68,Active,None,High
+Samantha Jones,61,Moderate,None,High
+Sarah Daniel,27,Moderate,Blood Pressure,Low
+Christopher Hayes,30,Dormant,None,Moderate
+Jacob Henry,21,Moderate,None,Low
+Phillip Clark,31,Active,Diabetes,Moderate
+Philip Lopez,18,Dormant,None,Low
+Leah Brown,18,Active,Diabetes,Low
+Joseph Dillon,74,Dormant,Diabetes,High
+Mark Gonzalez,32,Active,Diabetes & Blood Pressure,Moderate
+Pam Martin,33,Moderate,Blood Pressure,Moderate
+Michael Wolfe,73,Active,Diabetes,High
+Michelle Peck DDS,55,Moderate,Diabetes,High
+Jason Bailey,24,Dormant,Diabetes,Low
+Jerry Ward,33,Dormant,None,Moderate
+Heidi Ross,79,Moderate,Diabetes & Blood Pressure,High
+Robert Martin,20,Dormant,None,Low
+Troy Watson,39,Dormant,Blood Pressure,Moderate
+Timothy Robles,23,Active,Diabetes,Low
+Jeffrey Fisher,85,Active,Blood Pressure,High
+John Mendoza,72,Active,None,High
+Victoria Hammond,52,Dormant,None,High
+Amber Harris,18,Active,Diabetes,Low
+Daniel Wilson,18,Active,None,Low
+Mrs. Ashley Cole MD,54,Dormant,None,High
+Nicole Washington,24,Moderate,None,Low
+Kristen Roach,90,Dormant,Blood Pressure,High
+Ashley Lewis,26,Moderate,Diabetes,Low
+Justin Ramos,55,Dormant,Blood Pressure,High
+Ann Rogers,42,Moderate,Diabetes & Blood Pressure,Moderate
+Amber Morales,88,Moderate,None,High
+Robert King,36,Moderate,Diabetes,Moderate
+Sean Dillon,20,Dormant,Blood Pressure,Low
+Samuel Adams,77,Moderate,Diabetes,High
+Gary Hanson,21,Moderate,Diabetes & Blood Pressure,Low
+Michelle Roman,74,Active,None,High
+Jennifer Dunn,20,Active,Diabetes & Blood Pressure,Low
+Jeffrey Shaw,40,Dormant,None,Moderate
+Heidi Burns,56,Dormant,Diabetes & Blood Pressure,High
+Jared Lewis,46,Active,Blood Pressure,Moderate
+Jasmine Richards,24,Dormant,Diabetes,Low
+Matthew Perry,61,Dormant,Diabetes,High
+Carl Bryan,64,Dormant,None,High
+Alicia Gardner,90,Moderate,Diabetes,High
+Jane Little,72,Active,Diabetes & Blood Pressure,High
+Christine Pope,58,Active,None,High
+James Gonzalez,58,Moderate,Diabetes,High
+Julie Jackson,52,Active,None,High
+Angela Johnson,39,Active,None,Moderate
+Kelly Hall,50,Active,Blood Pressure,High
+Robert Jackson,37,Moderate,None,Moderate
+Tim Shannon,75,Moderate,None,High
+Margaret Mcneil,77,Dormant,None,High
+Hannah Stanley,41,Dormant,Diabetes,Moderate
+William Gomez,29,Active,None,Low
+Danielle Larson,56,Dormant,None,High
+Robert Garcia,29,Moderate,None,Low
+Angel Gray,74,Moderate,None,High
+Emily Chambers,37,Dormant,Diabetes,Moderate
+Tiffany Compton,60,Active,None,High
+Sandy Conrad,81,Active,Blood Pressure,High
+Peter Stevens,55,Dormant,None,High
+Alvin Baker,29,Dormant,None,Low
+Lisa Humphrey,75,Dormant,Diabetes & Blood Pressure,High
+Jorge Phelps,58,Dormant,None,High
+Brenda Wells,85,Active,Diabetes,High
+Stephen Ross,63,Active,None,High
+Patricia Hill,19,Moderate,Diabetes,Low
+Jeremy Sherman,20,Active,None,Low
+Andrew Mcfarland,85,Moderate,Blood Pressure,High
+Alexis Smith,39,Active,Diabetes & Blood Pressure,Moderate
+John Smith,47,Dormant,Blood Pressure,Moderate
+Bobby Juarez,35,Moderate,Blood Pressure,Moderate
+Lisa Jones,66,Active,Diabetes,High
+Joel Hickman Jr.,33,Active,Diabetes,Moderate
+Nathaniel Smith,80,Moderate,None,High
+Breanna Skinner,22,Dormant,None,Low
+Dawn Lester,33,Dormant,None,Moderate
+Anna Dorsey,65,Dormant,Blood Pressure,High
+Dana Campos,74,Moderate,Diabetes & Blood Pressure,High
+Todd Moore,80,Active,Diabetes & Blood Pressure,High
+Cameron Mendoza,36,Dormant,Blood Pressure,Moderate
+Michael Lara,74,Active,None,High
+Kim Moreno,34,Dormant,None,Moderate
+Jennifer Hunt,60,Moderate,None,High
+Beth Lam,54,Active,Diabetes & Blood Pressure,High
+Faith Garcia,42,Dormant,Diabetes,Moderate
+Kayla Fisher,60,Active,None,High
+Michael Mcdowell,53,Moderate,Diabetes & Blood Pressure,High
+Eric Graves,54,Moderate,Diabetes,High
+Theodore Fisher,49,Active,Blood Pressure,Moderate
+Stephanie Jenkins,57,Active,None,High
+Melissa Norman,28,Dormant,None,Low
+Ms. Julie Henderson DVM,82,Dormant,Diabetes & Blood Pressure,High
+Michael Watson,90,Dormant,Blood Pressure,High
+Keith Villanueva,37,Active,Blood Pressure,Moderate
+Sean Giles,21,Dormant,Blood Pressure,Low
+John Lopez,39,Dormant,None,Moderate
+Christina Meadows,78,Moderate,Diabetes,High
+Matthew Campos,58,Dormant,None,High
+Jennifer Smith,48,Dormant,Blood Pressure,Moderate
+Krystal Cooper,41,Dormant,Diabetes,Moderate
+Brian Tran,90,Active,Blood Pressure,High
+Ryan Juarez,40,Dormant,Diabetes,Moderate
+Daniel White,30,Active,None,Moderate
+Allison Rodriguez,73,Moderate,None,High
+Matthew Leonard,32,Active,Diabetes & Blood Pressure,Moderate
+William Brooks,82,Dormant,None,High
+Kevin Newman,30,Active,Diabetes,Moderate
+Tanya Johnson,67,Active,Diabetes,High
+Linda Summers,43,Active,None,Moderate
+Alicia Davis,35,Dormant,None,Moderate
+Christina Daniels,47,Moderate,None,Moderate
+Victoria Robertson,83,Moderate,None,High
+Oscar Gonzalez,59,Active,Diabetes,High
+Jane Wells,68,Active,Diabetes,High
+Parker Ford,26,Active,Diabetes & Blood Pressure,Low
+William Lynn,33,Active,Diabetes,Moderate
+Melissa Daniels,49,Active,None,Moderate
+Jason Flores,47,Moderate,Diabetes & Blood Pressure,Moderate
+Kristen Hogan,61,Active,None,High
+Caroline Roberts,41,Active,Diabetes,Moderate
+Austin Trevino,35,Active,None,Moderate
+Sandra Phillips,19,Moderate,Blood Pressure,Low
+Jake Huber,38,Active,Blood Pressure,Moderate
+Jonathan Graves,19,Dormant,None,Low
+Joseph Martinez,79,Dormant,None,High
+Donald Robbins,78,Active,Blood Pressure,High
+Stephanie Fuller,21,Dormant,Diabetes & Blood Pressure,Low
+Benjamin Brown,80,Active,Diabetes,High
+James Haley,76,Dormant,None,High
+Kristen Garcia,45,Moderate,None,Moderate
+Richard Snow,80,Dormant,None,High
+Miss Beth Frazier,82,Active,None,High
+Brandon Berry MD,32,Moderate,Diabetes,Moderate
+Tammy Thomas,53,Dormant,Diabetes & Blood Pressure,High
+Alicia Perry,62,Active,Diabetes,High
+Kellie Williams,54,Moderate,Diabetes & Blood Pressure,High
+Ashley Williams,22,Dormant,None,Low
+Mark Moore,46,Moderate,Blood Pressure,Moderate
+Angela Cooper,63,Moderate,Diabetes & Blood Pressure,High
+Kathleen Alvarez,32,Dormant,None,Moderate
+Mr. Jacob Soto Jr.,24,Moderate,None,Low
+Mary Richardson,71,Dormant,None,High
+Daniel Smith,36,Active,None,Moderate
+Erica Wilkins,65,Moderate,None,High
+Mark Ward,26,Active,None,Low
+Elizabeth Brown,27,Moderate,Blood Pressure,Low
+Christine Underwood,63,Active,None,High
+Jamie Grimes,60,Active,Diabetes,High
+Kathryn Harrison,30,Active,Blood Pressure,Moderate
+Tara Lopez,74,Dormant,None,High
+Mrs. Jamie Sanford,59,Moderate,Blood Pressure,High
+Kevin Porter,46,Dormant,None,Moderate
+Ashley Garcia,19,Dormant,None,Low
+Sharon Mata,70,Active,None,High
+Sara Acevedo,79,Active,None,High
+Stephen Black,38,Dormant,None,Moderate
+Tara Lopez,87,Moderate,Blood Pressure,High
+Kimberly Frye,59,Moderate,None,High
+Carolyn Jacobs,31,Dormant,Blood Pressure,Moderate
+Meghan Robbins,28,Dormant,Diabetes,Low
+Dr. Anna Hernandez,33,Active,None,Moderate
+Michele Mcmahon,23,Dormant,None,Low
+Deborah Mcgee,33,Active,Blood Pressure,Moderate
+Jill Russo,61,Dormant,None,High
+Jacqueline Roach,23,Moderate,Diabetes,Low
+Juan Sutton,34,Active,Diabetes,Moderate
+Jessica Long,67,Dormant,Blood Pressure,High
+Jacob Pittman,56,Active,None,High
+Sharon Bates,50,Dormant,None,High
+Brian Smith,67,Moderate,Blood Pressure,High
+Nicholas Reynolds,41,Active,Blood Pressure,Moderate
+Sandra Harrell,30,Moderate,Diabetes,Moderate
+Melanie Santiago,51,Moderate,Blood Pressure,High
+Steven Patel,29,Moderate,None,Low
+Dustin Rodriguez,43,Dormant,Blood Pressure,Moderate
+Jade Miller,62,Active,Blood Pressure,High
+Terry Salinas,84,Dormant,None,High
+Brian Farmer,50,Dormant,Diabetes & Blood Pressure,High
+Tina Gilbert,52,Moderate,None,High
+Nicole Miles,46,Dormant,None,Moderate
+Matthew Johnson,62,Active,Blood Pressure,High
+Desiree Case,48,Active,Blood Pressure,Moderate
+Tyrone Taylor,38,Dormant,Diabetes,Moderate
+Shelly Osborne MD,36,Active,None,Moderate
+Olivia Robinson,86,Moderate,None,High
+Brandi Liu,67,Active,None,High
+Richard Li,66,Moderate,None,High
+Jacob Ray,21,Dormant,Diabetes,Low
+Amanda Hayes,85,Moderate,None,High
+Ryan Turner,27,Active,None,Low
+Crystal Price,88,Active,Diabetes,High
+Paul Meyer,83,Moderate,None,High
+John Anderson,23,Moderate,Blood Pressure,Low
+Wendy Russell,60,Dormant,None,High
+Thomas Griffin,26,Dormant,None,Low
+Dean Reid,57,Active,Diabetes & Blood Pressure,High
+Steven Dean,89,Active,Diabetes & Blood Pressure,High
+Bradley Calderon,39,Dormant,Diabetes,Moderate
+Lorraine Mcfarland,57,Dormant,Blood Pressure,High
+Amanda Mckinney,49,Active,Diabetes & Blood Pressure,Moderate
+Jay Simpson,73,Moderate,Diabetes,High
+Sheri Thomas,56,Dormant,None,High
+Derek Hayes,59,Active,None,High
+Robert Sanchez,37,Moderate,None,Moderate
+Ashley Mccarthy,80,Dormant,None,High
+Shawn Walker,67,Active,Blood Pressure,High
+Eric White,76,Active,Diabetes & Blood Pressure,High
+Allison Peters,32,Dormant,Diabetes & Blood Pressure,Moderate
+Mary Anderson,88,Dormant,Diabetes,High
+Laura Harris,49,Dormant,None,Moderate
+Julie Powell,28,Active,Diabetes,Low
+Sarah Martin,18,Dormant,None,Low
+Brenda Clark,59,Moderate,None,High
+Jeffrey Smith,68,Moderate,Blood Pressure,High
+Cassandra Crane,41,Active,None,Moderate
+Candace Hughes,71,Active,Diabetes,High
+Edward Mcmahon,90,Moderate,None,High
+Nicholas Wilson,82,Active,Diabetes,High
+Beth Werner,24,Active,Diabetes & Blood Pressure,Low
+Hannah Clark,19,Moderate,Blood Pressure,Low
+Sarah George,83,Moderate,Diabetes,High
+Lisa James,41,Active,None,Moderate
+Eric Blair,34,Dormant,None,Moderate
+James Robertson PhD,77,Moderate,None,High
+David Mcintyre,33,Dormant,None,Moderate
+Brittany Bond,37,Active,Diabetes,Moderate
+James Greene,41,Moderate,None,Moderate
+Mikayla Moore,67,Active,None,High
+Matthew Nguyen,84,Dormant,Blood Pressure,High
+Jennifer Mercer,34,Dormant,Blood Pressure,Moderate
+Brad Griffin,33,Active,Blood Pressure,Moderate
+Dwayne Shepherd,65,Dormant,None,High
+Amanda Chen,56,Moderate,Blood Pressure,High
+Jessica Hensley,62,Moderate,Blood Pressure,High
+Melanie Meadows,89,Active,None,High
+Nicole Martin,45,Active,None,Moderate
+Cindy Mccoy,22,Active,Blood Pressure,Low
+Jason Simmons,26,Dormant,Blood Pressure,Low
+Frank Aguilar,26,Active,Blood Pressure,Low
+Rachael Morris,86,Active,Blood Pressure,High
+Benjamin Barker,62,Dormant,Diabetes & Blood Pressure,High
+Allison Campbell,57,Active,Blood Pressure,High
+Keith Jones,74,Moderate,Diabetes,High
+Sharon Gross,86,Active,None,High
+Derek Marquez,45,Dormant,Diabetes,Moderate
+Jean Alvarez,52,Moderate,None,High
+Brandon Brewer,81,Active,Diabetes,High
+Ashley Wyatt,83,Moderate,Diabetes,High
+Colleen Clarke,70,Moderate,Blood Pressure,High
+Dustin Garrison,76,Moderate,Blood Pressure,High
+Caleb Wolfe,83,Moderate,None,High
+Deborah Santana,89,Dormant,None,High
+Jeffrey Pineda,32,Moderate,Diabetes & Blood Pressure,Moderate
+Patrick Martin,71,Dormant,None,High
+Peter Wilson,77,Moderate,None,High
+Brianna Jones,51,Active,None,High
+Dean Ross,81,Moderate,Diabetes,High
+Mary Fox,69,Moderate,Diabetes,High
+James Conrad,21,Dormant,None,Low
+Ricky Chase,59,Moderate,Blood Pressure,High
+Joseph Gilbert,67,Dormant,None,High
+Kimberly Burke,71,Active,Diabetes,High
+Calvin Johnson,21,Active,None,Low
+Blake Smith,90,Active,Diabetes,High
+Cassandra Carpenter,66,Moderate,Diabetes & Blood Pressure,High
+Michael Pope,26,Dormant,None,Low
+Helen Miller,50,Active,None,High
+Chad Davis,30,Moderate,Diabetes,Moderate
+Luis Kelly,70,Active,None,High
+Ms. Nichole Fisher MD,73,Dormant,Diabetes,High
+Tara Lee,32,Dormant,None,Moderate
+Kevin Hernandez,71,Dormant,Diabetes,High
+Elizabeth Fitzpatrick,82,Active,Diabetes & Blood Pressure,High
+Leah Dunn,45,Active,Diabetes,Moderate
+Dillon Stephens,84,Active,Blood Pressure,High
+Joshua Robbins,46,Moderate,Blood Pressure,Moderate
+William Campos,88,Dormant,None,High
+John Mata,33,Moderate,None,Moderate
+Anthony Cooper,19,Dormant,None,Low
+Michael Brown,51,Moderate,None,High
+Jeffrey Mcdaniel,37,Active,None,Moderate
+Laura Daugherty,59,Active,None,High
+Jessica Simpson,75,Moderate,Diabetes,High
+Mark Smith,77,Active,Blood Pressure,High
+Justin Best,41,Active,None,Moderate
+Elizabeth Shepherd,24,Moderate,Diabetes,Low
+Katherine Brown,55,Moderate,Diabetes & Blood Pressure,High
+Joshua Mercado,86,Dormant,None,High
+Cameron Phillips,33,Moderate,None,Moderate
+Jeremy Ford,53,Dormant,Blood Pressure,High
+Felicia Meyer,80,Active,Diabetes & Blood Pressure,High
+Peter Mendoza,78,Dormant,None,High
+Melissa Stewart,50,Active,None,High
+Mark Mccann,85,Dormant,None,High
+Katherine Rodriguez,41,Dormant,Blood Pressure,Moderate
+Larry Mcknight,39,Dormant,None,Moderate
+Christopher Diaz,80,Dormant,Blood Pressure,High
+Christopher Turner,40,Active,Diabetes & Blood Pressure,Moderate
+Michael Smith,68,Moderate,Blood Pressure,High
+Rebecca French,42,Active,Diabetes,Moderate
+Julie Brown,55,Dormant,Diabetes & Blood Pressure,High
+Brenda Cole,77,Active,Diabetes & Blood Pressure,High
+Marie Anderson,72,Moderate,None,High
+Paula Golden,52,Moderate,None,High
+Angela Davenport,50,Dormant,None,High
+Frank Gardner,67,Moderate,Blood Pressure,High
+Elizabeth Trujillo,27,Active,Diabetes & Blood Pressure,Low
+Christian Waters,33,Active,Diabetes & Blood Pressure,Moderate
+Michael Estrada,36,Active,Diabetes,Moderate
+Brandon Martin,40,Dormant,Blood Pressure,Moderate
+Zoe Houston,80,Dormant,Blood Pressure,High
+Robert Ryan,22,Moderate,Diabetes,Low
+Patrick Nolan,58,Moderate,None,High
+Jeffrey Whitaker,42,Moderate,None,Moderate
+Johnny Walker,20,Moderate,None,Low
+Donald Warner,50,Moderate,None,High
+Heather Moon,77,Dormant,None,High
+Margaret Munoz,82,Dormant,None,High
+Maria Mathews,40,Moderate,Diabetes,Moderate
+Jonathan Goodwin,41,Moderate,Diabetes,Moderate
+Kyle Mora,79,Moderate,None,High
+Janet Moreno,65,Active,None,High
+Allison White,60,Active,Diabetes & Blood Pressure,High
+Joshua Mora,66,Moderate,Diabetes,High
+Patrick Sullivan,64,Moderate,None,High
+Troy Gross,85,Dormant,None,High
+Mark Davies,61,Active,Diabetes,High
+Sarah Garcia,61,Moderate,Blood Pressure,High
+Francis Avila,88,Moderate,None,High
+Samuel Wilson,70,Active,None,High
+Nicholas Brown,23,Moderate,Blood Pressure,Low
+Adam Blake,89,Moderate,Blood Pressure,High
+Sydney Buchanan,54,Active,None,High
+Joseph Jacobs,20,Dormant,Diabetes,Low
+Kayla Mendez,30,Dormant,Blood Pressure,Moderate
+Alexandra Hamilton,44,Active,Blood Pressure,Moderate
+Matthew Johnson,70,Moderate,Diabetes,High
+Aaron Miller,45,Dormant,Diabetes & Blood Pressure,Moderate
+Nicholas Peterson MD,21,Moderate,Blood Pressure,Low
+James Nichols,33,Moderate,None,Moderate
+Gregory Mann,26,Moderate,Diabetes,Low
+Colleen Rose,47,Active,None,Moderate
+Tammie Gamble,65,Dormant,Blood Pressure,High
+William Brown,20,Dormant,None,Low
+Jennifer Rhodes,57,Moderate,Blood Pressure,High
+Daniel Wood,54,Active,None,High
+Benjamin Cowan,29,Active,None,Low
+Steven Turner,65,Moderate,None,High
+James Boyd,21,Dormant,None,Low
+Devin Reed,39,Active,None,Moderate
+Jeremy Wells,18,Active,Diabetes,Low
+Jason Perkins,59,Dormant,Diabetes,High
+Susan Schroeder MD,86,Active,Diabetes,High
+Caroline Davis,26,Moderate,Diabetes,Low
+Thomas Smith,35,Dormant,Diabetes,Moderate
+Courtney Lloyd,59,Active,Diabetes,High
+Amanda Schmidt,34,Moderate,Diabetes,Moderate
+Kayla Gilmore,36,Moderate,None,Moderate
+Henry Grant,30,Dormant,Diabetes,Moderate
+Barbara Jones,20,Active,None,Low
+Henry Davis,85,Moderate,None,High
+Peggy Elliott,82,Dormant,None,High
+Kelly Torres,45,Dormant,None,Moderate
+Thomas Bray,34,Active,Diabetes,Moderate
+Lauren Hill,49,Moderate,Diabetes,Moderate
+Angela Aguirre,87,Active,None,High
+Jonathan Durham,38,Dormant,None,Moderate
+Mitchell Williamson,41,Active,Diabetes,Moderate
+Timothy Bryant,25,Dormant,None,Low
+Jimmy Thomas,59,Moderate,None,High
+Laura King,38,Dormant,Blood Pressure,Moderate
+Jeffrey Velasquez,29,Active,Diabetes,Low
+Connie Black,68,Active,None,High
+Karina Wu,53,Moderate,Blood Pressure,High
+Rodney Bonilla,55,Moderate,None,High
+Douglas Sandoval,43,Moderate,Diabetes & Blood Pressure,Moderate
+Eric Chan,57,Dormant,None,High
+Caitlin Cochran,34,Dormant,None,Moderate
+Jonathan Johnson,19,Dormant,Diabetes,Low
+Daniel Mitchell,23,Moderate,None,Low
+Michael Carpenter,37,Dormant,None,Moderate
+Kelly Kline,48,Active,Diabetes & Blood Pressure,Moderate
+Ronald Porter,73,Moderate,Diabetes,High
+Jennifer Brown,46,Dormant,None,Moderate
+Tony Lopez,32,Dormant,Blood Pressure,Moderate
+Heather Ray,21,Dormant,None,Low
+Jason Jackson,24,Active,None,Low
+Stephanie Bradley,23,Active,Diabetes,Low
+Joe Ballard,21,Moderate,None,Low
+Colleen Villarreal,41,Active,None,Moderate
+Joanna Griffith,57,Dormant,None,High
+Erin Hernandez,41,Active,None,Moderate
+Tonya Arroyo,81,Moderate,Diabetes & Blood Pressure,High
+Katherine Benson,57,Dormant,Diabetes,High
+Laura Key,28,Dormant,None,Low
+Annette Jones,81,Dormant,Blood Pressure,High
+Valerie Valencia,26,Dormant,Diabetes,Low
+Thomas Tapia,78,Dormant,Diabetes,High
+Aimee Thompson,74,Active,Blood Pressure,High
+Rebecca Vaughn,61,Dormant,Diabetes,High
+Maria Whitehead,21,Moderate,Diabetes,Low
+Daniel Montgomery,30,Active,Blood Pressure,Moderate
+Jonathan Burns,27,Dormant,None,Low
+Michael Williams,42,Dormant,Diabetes,Moderate
+Mark Stein,67,Moderate,Blood Pressure,High
+Carla Stevens,60,Moderate,Diabetes,High
+Tracey Rodriguez,84,Active,Diabetes & Blood Pressure,High
+Jason Allen,77,Dormant,Blood Pressure,High
+Kristina Gordon,81,Active,Diabetes,High
+Christopher Meadows,33,Dormant,None,Moderate
+Kenneth Peters,74,Active,None,High
+Steve Washington,78,Dormant,None,High
+Gabrielle Lawrence,36,Moderate,None,Moderate
+Angela Sullivan,83,Moderate,Diabetes,High
+Kristine Hutchinson,86,Active,Diabetes,High
+John Mann,67,Moderate,Blood Pressure,High
+Brian Willis,18,Active,Diabetes,Low
+Angela Graves,59,Dormant,None,High
+Michael Bennett,48,Moderate,None,Moderate
+Jessica Hayes,26,Moderate,Diabetes,Low
+Joann Bryant,18,Dormant,Blood Pressure,Low
+Mary Gamble,37,Moderate,None,Moderate
+Joel Young,35,Dormant,None,Moderate
+Michael Rogers,36,Active,Diabetes,Moderate
+Miss Kimberly Hodges PhD,59,Moderate,Diabetes & Blood Pressure,High
+Victoria Higgins,52,Dormant,Diabetes,High
+Chad Newton,32,Dormant,None,Moderate
+Susan Le,57,Dormant,Blood Pressure,High
+Jennifer Ochoa,62,Active,None,High
+William Miller,84,Dormant,Diabetes,High
+Amy Rivera,88,Dormant,None,High
+Martha Smith,83,Dormant,Diabetes & Blood Pressure,High
+Gregory Villegas,30,Moderate,None,Moderate
+Danny Patel,75,Dormant,None,High
+Phillip Harris,28,Active,None,Low
+Dustin Moore,87,Dormant,Blood Pressure,High
+Taylor Bates,75,Dormant,Diabetes,High
+Teresa Marquez,57,Dormant,None,High
+Jennifer Barnes,28,Active,None,Low
+Anthony Johnson,20,Active,Blood Pressure,Low
+Joshua Bowers,37,Dormant,None,Moderate
+Randy Arellano,54,Moderate,Diabetes,High
+Destiny Reid,37,Active,None,Moderate
+Brittany Holmes,79,Moderate,None,High
+Jonathan Pratt,38,Active,None,Moderate
+Paul Mcintosh,47,Moderate,None,Moderate
+Jeffrey Daniels,71,Moderate,Blood Pressure,High
+Steven Rowe,57,Moderate,None,High
+Kerri Nguyen,84,Active,Diabetes,High
+James Vasquez,34,Moderate,None,Moderate
+Aaron Adams,79,Dormant,None,High
+Renee Patterson,48,Active,Blood Pressure,Moderate
+Timothy Henderson,32,Active,None,Moderate
+Julie Hill,46,Dormant,None,Moderate
+Terri Ryan,70,Moderate,None,High
+Gabriella Williams,36,Dormant,Diabetes,Moderate
+Jeffery Tran,60,Dormant,Diabetes,High
+Dr. Gregory Bauer,71,Active,None,High
+Jason Schultz,40,Dormant,None,Moderate
+Daniel Phillips,35,Active,None,Moderate
+Mike Castaneda,88,Active,None,High
